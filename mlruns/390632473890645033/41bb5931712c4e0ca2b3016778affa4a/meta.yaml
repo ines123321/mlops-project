@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ines/slimane-ines-4DS5-ml_project/mlruns/390632473890645033/41bb5931712c4e0ca2b3016778affa4a/artifacts
+end_time: 1740683258676
+entry_point_name: ''
+experiment_id: '390632473890645033'
+lifecycle_stage: active
+run_id: 41bb5931712c4e0ca2b3016778affa4a
+run_name: welcoming-dove-349
+run_uuid: 41bb5931712c4e0ca2b3016778affa4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740683258647
+status: 3
+tags: []
+user_id: ines

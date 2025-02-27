@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ines/slimane-ines-4DS5-ml_project/mlruns/390632473890645033/79e012a5d4ea41f9a53bc70a3cc6b805/artifacts
+end_time: 1739381407899
+entry_point_name: ''
+experiment_id: '390632473890645033'
+lifecycle_stage: active
+run_id: 79e012a5d4ea41f9a53bc70a3cc6b805
+run_name: legendary-mink-993
+run_uuid: 79e012a5d4ea41f9a53bc70a3cc6b805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739381407750
+status: 3
+tags: []
+user_id: ines

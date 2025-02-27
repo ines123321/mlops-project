@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ines/slimane-ines-4DS5-ml_project/mlruns/390632473890645033/dd020b79cd924ee8a2f485f70c276f98/artifacts
+end_time: 1739386453257
+entry_point_name: ''
+experiment_id: '390632473890645033'
+lifecycle_stage: active
+run_id: dd020b79cd924ee8a2f485f70c276f98
+run_name: carefree-gnat-902
+run_uuid: dd020b79cd924ee8a2f485f70c276f98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739386452645
+status: 3
+tags: []
+user_id: ines

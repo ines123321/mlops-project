@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ines/slimane-ines-4DS5-ml_project/mlruns/390632473890645033/071a3f1d1c8e4ccca06b93147fcac009/artifacts
+end_time: 1739386447278
+entry_point_name: ''
+experiment_id: '390632473890645033'
+lifecycle_stage: active
+run_id: 071a3f1d1c8e4ccca06b93147fcac009
+run_name: colorful-hog-65
+run_uuid: 071a3f1d1c8e4ccca06b93147fcac009
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739386447247
+status: 3
+tags: []
+user_id: ines

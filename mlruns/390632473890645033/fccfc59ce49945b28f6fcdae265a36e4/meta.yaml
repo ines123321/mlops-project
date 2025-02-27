@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ines/slimane-ines-4DS5-ml_project/mlruns/390632473890645033/fccfc59ce49945b28f6fcdae265a36e4/artifacts
+end_time: 1740683230762
+entry_point_name: ''
+experiment_id: '390632473890645033'
+lifecycle_stage: active
+run_id: fccfc59ce49945b28f6fcdae265a36e4
+run_name: valuable-calf-693
+run_uuid: fccfc59ce49945b28f6fcdae265a36e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740683230716
+status: 3
+tags: []
+user_id: ines

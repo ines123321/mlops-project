@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ines/slimane-ines-4DS5-ml_project/mlruns/390632473890645033/c1920758ed5244f48b5bff13f8ec78cf/artifacts
+end_time: 1739381297668
+entry_point_name: ''
+experiment_id: '390632473890645033'
+lifecycle_stage: active
+run_id: c1920758ed5244f48b5bff13f8ec78cf
+run_name: funny-slug-873
+run_uuid: c1920758ed5244f48b5bff13f8ec78cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739381297457
+status: 4
+tags: []
+user_id: ines

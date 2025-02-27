@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ines/slimane-ines-4DS5-ml_project/mlruns/390632473890645033/7b2d3973832f47749efa6393bb2edbe4/artifacts
+end_time: 1740610864103
+entry_point_name: ''
+experiment_id: '390632473890645033'
+lifecycle_stage: active
+run_id: 7b2d3973832f47749efa6393bb2edbe4
+run_name: languid-pig-382
+run_uuid: 7b2d3973832f47749efa6393bb2edbe4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740610859025
+status: 3
+tags: []
+user_id: ines

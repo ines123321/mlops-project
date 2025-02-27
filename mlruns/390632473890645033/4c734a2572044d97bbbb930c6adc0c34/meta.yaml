@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ines/slimane-ines-4DS5-ml_project/mlruns/390632473890645033/4c734a2572044d97bbbb930c6adc0c34/artifacts
+end_time: 1740610715819
+entry_point_name: ''
+experiment_id: '390632473890645033'
+lifecycle_stage: active
+run_id: 4c734a2572044d97bbbb930c6adc0c34
+run_name: melodic-ox-24
+run_uuid: 4c734a2572044d97bbbb930c6adc0c34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740610708774
+status: 3
+tags: []
+user_id: ines

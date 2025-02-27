@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ines/slimane-ines-4DS5-ml_project/mlruns/390632473890645033/589c192c005a4e939a521c79d67797e8/artifacts
+end_time: 1739386450208
+entry_point_name: ''
+experiment_id: '390632473890645033'
+lifecycle_stage: active
+run_id: 589c192c005a4e939a521c79d67797e8
+run_name: persistent-rook-567
+run_uuid: 589c192c005a4e939a521c79d67797e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739386449921
+status: 3
+tags: []
+user_id: ines

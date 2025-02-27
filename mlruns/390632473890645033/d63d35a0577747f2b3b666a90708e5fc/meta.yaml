@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ines/slimane-ines-4DS5-ml_project/mlruns/390632473890645033/d63d35a0577747f2b3b666a90708e5fc/artifacts
+end_time: 1739381427043
+entry_point_name: ''
+experiment_id: '390632473890645033'
+lifecycle_stage: active
+run_id: d63d35a0577747f2b3b666a90708e5fc
+run_name: legendary-goose-760
+run_uuid: d63d35a0577747f2b3b666a90708e5fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739381426987
+status: 3
+tags: []
+user_id: ines

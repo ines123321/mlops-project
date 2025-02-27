@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ines/slimane-ines-4DS5-ml_project/mlruns/390632473890645033/8cfe071c84bc4c0aaeab2c07e628b153/artifacts
+end_time: 1739386295292
+entry_point_name: ''
+experiment_id: '390632473890645033'
+lifecycle_stage: active
+run_id: 8cfe071c84bc4c0aaeab2c07e628b153
+run_name: inquisitive-dove-26
+run_uuid: 8cfe071c84bc4c0aaeab2c07e628b153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739386295246
+status: 3
+tags: []
+user_id: ines

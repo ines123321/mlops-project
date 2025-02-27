@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ines/slimane-ines-4DS5-ml_project/mlruns/390632473890645033/0044449416f24c9b8f6790d31e9ff007/artifacts
+end_time: 1739386905465
+entry_point_name: ''
+experiment_id: '390632473890645033'
+lifecycle_stage: active
+run_id: 0044449416f24c9b8f6790d31e9ff007
+run_name: clumsy-calf-478
+run_uuid: 0044449416f24c9b8f6790d31e9ff007
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739386897078
+status: 3
+tags: []
+user_id: ines

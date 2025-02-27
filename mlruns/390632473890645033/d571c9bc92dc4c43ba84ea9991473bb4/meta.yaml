@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ines/slimane-ines-4DS5-ml_project/mlruns/390632473890645033/d571c9bc92dc4c43ba84ea9991473bb4/artifacts
+end_time: 1739386464955
+entry_point_name: ''
+experiment_id: '390632473890645033'
+lifecycle_stage: active
+run_id: d571c9bc92dc4c43ba84ea9991473bb4
+run_name: whimsical-wasp-296
+run_uuid: d571c9bc92dc4c43ba84ea9991473bb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739386459291
+status: 3
+tags: []
+user_id: ines

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ines/slimane-ines-4DS5-ml_project/mlruns/390632473890645033/2fea864be5084dddaf63e3a2825f3c8d/artifacts
+end_time: 1739386292552
+entry_point_name: ''
+experiment_id: '390632473890645033'
+lifecycle_stage: active
+run_id: 2fea864be5084dddaf63e3a2825f3c8d
+run_name: selective-tern-778
+run_uuid: 2fea864be5084dddaf63e3a2825f3c8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739386292506
+status: 3
+tags: []
+user_id: ines
