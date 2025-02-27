@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">  <!-- Lien vers le fichier CSS -->
+</head>
+<body>
+    <h1>Entrez les caractéristiques pour la prédiction</h1>
+    <form action="/predict" method="POST">
+        <label for="features">Caractéristiques (séparées par des virgules) :</label><br>
+        <input type="text" id="features" name="features" placeholder="Ex: 0, 132, 410, 1, 0..." required><br><br>
+        <button type="submit">Soumettre</button>
+    </form>
+</body>
+</html>
+

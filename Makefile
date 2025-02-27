@@ -41,7 +41,7 @@ evaluate: train
 all: train evaluate
 
 # Start the FastAPI server
-start:
+start-api:
 	uvicorn app:app --reload --host 0.0.0.0 --port 8000
 #  Test the API
 test-api:

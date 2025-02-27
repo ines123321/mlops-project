@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ines/slimane-ines-4DS5-ml_project/mlruns/390632473890645033/b1fe3fd937414f5fb5ea8ce2296a2d34/artifacts
+end_time: 1740694882419
+entry_point_name: ''
+experiment_id: '390632473890645033'
+lifecycle_stage: active
+run_id: b1fe3fd937414f5fb5ea8ce2296a2d34
+run_name: polite-calf-51
+run_uuid: b1fe3fd937414f5fb5ea8ce2296a2d34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740694881820
+status: 3
+tags: []
+user_id: ines

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ines/slimane-ines-4DS5-ml_project/mlruns/390632473890645033/19db2eebab3d42b2a1b125913ddaa797/artifacts
+end_time: 1740694885131
+entry_point_name: ''
+experiment_id: '390632473890645033'
+lifecycle_stage: active
+run_id: 19db2eebab3d42b2a1b125913ddaa797
+run_name: enthused-crab-2
+run_uuid: 19db2eebab3d42b2a1b125913ddaa797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740694884733
+status: 3
+tags: []
+user_id: ines

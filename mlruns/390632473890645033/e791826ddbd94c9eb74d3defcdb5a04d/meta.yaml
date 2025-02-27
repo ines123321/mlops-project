@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ines/slimane-ines-4DS5-ml_project/mlruns/390632473890645033/e791826ddbd94c9eb74d3defcdb5a04d/artifacts
+end_time: 1740694879612
+entry_point_name: ''
+experiment_id: '390632473890645033'
+lifecycle_stage: active
+run_id: e791826ddbd94c9eb74d3defcdb5a04d
+run_name: worried-kite-719
+run_uuid: e791826ddbd94c9eb74d3defcdb5a04d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740694879377
+status: 3
+tags: []
+user_id: ines

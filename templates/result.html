@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Résultat de la prédiction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">  <!-- Lien vers le fichier CSS -->
+</head>
+<body>
+    <h1>Résultat de la prédiction</h1>
+    <p>La prédiction est : {{ prediction }}</p>
+    <br>
+    <a href="/">Retourner à la page d'accueil</a>
+</body>
+</html>
+
