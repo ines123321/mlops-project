@@ -22,9 +22,6 @@ The goal is to predict whether a customer is likely to churn based on historical
 
 ---
 
-
----
-
 ## Machine Learning Pipeline
 - Data loading and cleaning
 - Feature scaling and preprocessing
